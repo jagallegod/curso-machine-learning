@@ -1,4 +1,6 @@
 # Curso de Machine Learning
-Material del Curso Big Data: Machine Learning 
+En este repositorio encontrarás el material del curso Big Data: Machine Learning. Ofrecido para la Facultad de Economía de la Universidad del Rosario.
 
-Facultad de Economía, Universidad del Rosario
+## Profesor: Jorge Gallego
+
+## Profesor asistente: Juan David Martínez
