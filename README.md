@@ -4,3 +4,5 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 ### Profesor: Jorge Gallego
 
 ### Profesor asistente: Juan David Martínez
+
+curso-machine-learning-/syllabus Big Data - Machine Learning.pdf
