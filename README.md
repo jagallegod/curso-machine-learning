@@ -58,3 +58,20 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [credit.csv (Base de Datos)](/arboles/credit.csv)
 
+
+## 7. Random Forests
+
+[Random Forest (Slides)](/forests/RandomForests.pdf)
+
+[Random Forests en R (Guía)](/forests/RandomForestsR.pdf)
+
+[bank.csv (Base de Datos)](/forests/bank.csv)
+
+
+## Talleres
+
+[Taller 1](/talleres/Taller1.pdf)
+
+[Taller 2](/talleres/Taller2.pdf)
+
+[Taller 3](/talleres/Taller3.pdf)
