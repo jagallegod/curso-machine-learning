@@ -36,7 +36,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Vecinos más Cercanos kNN (Slides)](/knn/kNN.pdf)
 
-[Vecinos más Cercanos kNN en R (Guía)](/knn/kNN R.pdf)
+[Vecinos más Cercanos kNN en R (Guía)](/knn/kNNR.pdf)
 
 [wisc_bc_data.csv (Base de Datos)](/knn/wisc_bc_data.csv)
 
@@ -52,7 +52,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 ## 6. Árboles de Decisión
 
-[Árboles de Decisión (Slides)](/arboles/DecisionTress.pdf)
+[Árboles de Decisión (Slides)](/arboles/DecisionTrees.pdf)
 
 [Árboles de Decisión en R (Guía)](/arboles/ArbolesR.pdf)
 
