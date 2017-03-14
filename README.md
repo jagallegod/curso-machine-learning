@@ -71,7 +71,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Random Forest (Slides)](/forests/RandomForests1.pdf)
 
-[Random Forests en R (Guía)](/forests/RandomForestsR.pdf)
+[Random Forests en R (Guía)]((http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/forests/Random_Forests_R.html)
 
 [bank.csv (Base de Datos)](/forests/bank.csv)
 
