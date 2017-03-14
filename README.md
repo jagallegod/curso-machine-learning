@@ -26,7 +26,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 ## 3. Programación y Gráficas en R 
 
-[Programación y Gráficas en R (Guía)](/programacionR/ProgramacionR.pdf)
+[Programación y Gráficas en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/programacionR/ProgramacionR.nb.html)
 
 
 [landdata-state.csv (Base de Datos)](/programacionR/landdata-states.csv)
