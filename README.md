@@ -28,7 +28,6 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Programación y Gráficas en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/programacionR/ProgramacionR.nb.html)
 
-
 [landdata-state.csv (Base de Datos)](/programacionR/landdata-states.csv)
 
 
@@ -38,7 +37,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Vecinos más Cercanos kNN (Slides)](/knn/kNN.pdf)
 
-[Vecinos más Cercanos kNN en R (Guía)](/knn/kNNR.pdf)
+[Vecinos más Cercanos kNN en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/knn/kNNR.nb.html)
 
 [wisc_bc_data.csv (Base de Datos)](/knn/wisc_bc_data.csv)
 
