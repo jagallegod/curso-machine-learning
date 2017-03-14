@@ -17,9 +17,10 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 ## 2. Fundamentos de R
 
-[Fundamentos de R (Guía)](/fundamentosR/FundamentosR.pdf)
+[Fundamentos de R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/fundamentosR/fundamentosR.nb.html)
 
 [usecars.csv (Base de Datos)](/fundamentosR/usedcars.csv)
+
 
 
 
@@ -32,6 +33,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 
 
+
 ## 4. Clasificación Usando Vecinos más Cercanos
 
 [Vecinos más Cercanos kNN (Slides)](/knn/kNN.pdf)
@@ -39,6 +41,8 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 [Vecinos más Cercanos kNN en R (Guía)](/knn/kNNR.pdf)
 
 [wisc_bc_data.csv (Base de Datos)](/knn/wisc_bc_data.csv)
+
+
 
 
 ## 5. Naive Bayes
@@ -50,6 +54,8 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 [sms_spam.csv (Base de Datos)](/naivebayes/sms_spam.csv)
 
 
+
+
 ## 6. Árboles de Decisión
 
 [Árboles de Decisión (Slides)](/arboles/DecisionTrees.pdf)
@@ -58,6 +64,8 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 [Árboles de Decisión en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/arboles/treesR.html)
 
 [credit.csv (Base de Datos)](/arboles/credit.csv)
+
+
 
 
 ## 7. Random Forests
