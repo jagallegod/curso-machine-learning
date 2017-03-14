@@ -8,7 +8,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 ## 1. Introducción
 
-[Syllabus](/Intro/syllabus Big Data - Machine Learning.pdf)
+[Syllabus](/Intro/syllabus.pdf)
 
 [Introducción (slides)](/Intro/intro.pdf)
 
