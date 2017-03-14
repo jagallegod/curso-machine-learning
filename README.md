@@ -19,42 +19,42 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Fundamentos de R (Guía)](/fundamentosR/FundamentosR.pdf)
 
-[usecars.csv (Base de Datos)](/usedcars.csv)
+[usecars.csv (Base de Datos)](/fundamentosR/usedcars.csv)
 
 
 
 ## 3. Programación y Gráficas en R 
 
-[Programación y Gráficas en R (Guía)](programacionR/ProgramacionR.pdf)
+[Programación y Gráficas en R (Guía)](/programacionR/ProgramacionR.pdf)
 
 
-[landdata-state.csv (Base de Datos)](/landdata-states.csv)
+[landdata-state.csv (Base de Datos)](/programacionR/landdata-states.csv)
 
 
 
 ## 4. Clasificación Usando Vecinos más Cercanos
 
-[Vecinos más Cercanos kNN (Slides)](/kNN.pdf)
+[Vecinos más Cercanos kNN (Slides)](/knn/kNN.pdf)
 
-[Vecinos más Cercanos kNN en R (Guía)](/kNN R.pdf)
+[Vecinos más Cercanos kNN en R (Guía)](/knn/kNN R.pdf)
 
-[wisc_bc_data.csv (Base de Datos)](/wisc_bc_data.csv)
+[wisc_bc_data.csv (Base de Datos)](/knn/wisc_bc_data.csv)
 
 
 ## 5. Naive Bayes
 
-[Naive Bayes (Slides)](/Naive Bayes.pdf)
+[Naive Bayes (Slides)](/naivebayes/NaiveBayes.pdf)
 
-[Naive Bayes en R (Guía)](/Naive Bayes R.pdf)
+[Naive Bayes en R (Guía)](/naivebayes/NaiveBayesR.pdf)
 
-[sms_spam.csv (Base de Datos)](/sms_spam.csv)
+[sms_spam.csv (Base de Datos)](/naivebayes/sms_spam.csv)
 
 
 ## 6. Árboles de Decisión
 
-[Árboles de Decisión (Slides)](/Decision Tress.pdf)
+[Árboles de Decisión (Slides)](/arboles/DecisionTress.pdf)
 
-[Árboles de Decisión en R (Guía)](/Árboles de Decisión R.pdf)
+[Árboles de Decisión en R (Guía)](/arboles/ArbolesR.pdf)
 
-[credit.csv (Base de Datos)](/credit.csv)
+[credit.csv (Base de Datos)](/arboles/credit.csv)
 
