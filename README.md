@@ -17,7 +17,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 ## 2. Fundamentos de R
 
-[Fundamentos de R (Guía)](/Fundamentos de R.pdf)
+[Fundamentos de R (Guía)](/FundamentosR.pdf)
 
 [usecars.csv (Base de Datos)](/usedcars.csv)
 
