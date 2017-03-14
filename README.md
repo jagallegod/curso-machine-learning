@@ -72,6 +72,6 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Taller 1](/talleres/Taller1.pdf)
 
-[Taller 2](/talleres/Taller2.pdf)
+[Taller 2](/talleres/taller2.pdf)
 
-[Taller 3](/talleres/Taller3.pdf)
+[Taller 3](/talleres/taller3.pdf)
