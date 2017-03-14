@@ -47,6 +47,8 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Naive Bayes en R (Guía)](/naivebayes/NaiveBayesR.pdf)
 
+[Naive Bayes en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/naivebayes/naivebayesR.nb.html)
+
 [sms_spam.csv (Base de Datos)](/naivebayes/sms_spam.csv)
 
 
