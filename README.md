@@ -54,7 +54,6 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Árboles de Decisión (Slides)](/arboles/DecisionTrees.pdf)
 
-[Árboles de Decisión en R (Guía)](/arboles/ArbolesR.pdf)
 
 [Árboles de Decisión en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/arboles/treesR.html)
 
