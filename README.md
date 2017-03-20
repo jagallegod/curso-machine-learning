@@ -75,6 +75,19 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [bank.csv (Base de Datos)](/forests/bank.csv)
 
+## 8. Métodos de Predicción: Regresión
+
+## 9. Redes Neuronales
+
+## 10. Support Vector Machines
+
+## 11. Patrones: Análisis de Canastas de Mercado
+
+## 12. Clustering
+
+## 13. Deep Learning
+
+## 14. Desempeño de Modelos
 
 ## Talleres
 
