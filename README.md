@@ -75,7 +75,19 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [bank.csv (Base de Datos)](/forests/bank.csv)
 
+
+
+
 ## 8. Métodos de Predicción: Regresión
+
+[Regresión Lineal (Slides)](/regresion/Regresion.pdf)
+
+[Regresión Lineal en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/regresion/RegresionR.html)
+
+[insurance.csv (Base de Datos)](/regresion/insurance.csv)
+
+
+
 
 ## 9. Redes Neuronales
 
