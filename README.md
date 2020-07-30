@@ -100,6 +100,13 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 ## 10. Support Vector Machines
 
+[Support Vector Machines (Slides)](/support/SVM.pdf)
+
+[Support Vector Machines en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/support/SVMR.html)
+
+[insurance.csv (Base de Datos)](/support/letterdata.csv)
+
+
 ## 11. Patrones: Análisis de Canastas de Mercado
 
 ## 12. Clustering
