@@ -1,9 +1,8 @@
 # Curso de Machine Learning
 En este repositorio encontrarás el material del curso Big Data: Machine Learning. Ofrecido para la Facultad de Economía de la Universidad del Rosario.
 
-### Profesor: Jorge Gallego
 
-### Profesor asistente: Juan David Martínez
+### Profesor: Jorge Gallego
 
 
 ## 1. Introducción
@@ -125,9 +124,14 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 [teens.csv (Base de Datos)](/clustering/teens.csv)
 
 
-## 13. Deep Learning
+## 13. Desempeño de Modelos
 
-## 14. Desempeño de Modelos
+[Desempeño (Slides)](/performance/Performance.pdf)
+
+[Desempeño en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/performance/desempeno.html)
+
+[teens.csv (Base de Datos)](/performance/bank.csv)
+
 
 ## Talleres
 
