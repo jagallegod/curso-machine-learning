@@ -93,7 +93,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Redes Neuronales (Slides)](/redes/NN.pdf)
 
-[Regresión Lineal en R (Guía)](/redes/NN.r)
+[Redes Neuronales en R (Guía)](/redes/NN.R)
 
 [insurance.csv (Base de Datos)](/redes/concrete.csv)
 
