@@ -91,6 +91,13 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 ## 9. Redes Neuronales
 
+[Redes Neuronales (Slides)](/redes/NN.pdf)
+
+[Regresión Lineal en R (Guía)](/redes/NN.r)
+
+[insurance.csv (Base de Datos)](/redes/concrete.csv)
+
+
 ## 10. Support Vector Machines
 
 ## 11. Patrones: Análisis de Canastas de Mercado
