@@ -104,7 +104,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Support Vector Machines en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/support/SVMR.html)
 
-[insurance.csv (Base de Datos)](/support/letterdata.csv)
+[letterdata.csv (Base de Datos)](/support/letterdata.csv)
 
 
 ## 11. Patrones: Análisis de Canastas de Mercado
