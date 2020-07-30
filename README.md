@@ -111,7 +111,7 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 [Patrones (Slides)](/patterns/Basket.pdf)
 
-[Support Vector Machines en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/patterns/R_Basket_Analysis.html)
+[Patrones en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/patterns/R_Basket_Analysis.html)
 
 [groceries.csv (Base de Datos)](/patterns/groceries.csv)
 
