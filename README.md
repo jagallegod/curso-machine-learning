@@ -118,6 +118,13 @@ En este repositorio encontrarás el material del curso Big Data: Machine Learnin
 
 ## 12. Clustering
 
+[Clustering (Slides)](/clustering/clustering.pdf)
+
+[Clustering en R (Guía)](http://htmlpreview.github.io/?https://github.com/jagallegod/curso-machine-learning/blob/master/clustering/R_Clustering.html)
+
+[teens.csv (Base de Datos)](/clustering/teens.csv)
+
+
 ## 13. Deep Learning
 
 ## 14. Desempeño de Modelos
